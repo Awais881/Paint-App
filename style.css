@@ -1,0 +1,23 @@
+body{
+    background-color: dimgray;
+}
+canvas {
+    border: 1px solid black;
+    background-color: white;
+}
+#container{
+ padding: 5px;
+ text-align: center;
+}
+#color{
+    margin: 5px;
+}
+h1{
+    text-align: center ;
+   color: darkorange;
+}
+button{
+    border-radius: 5px;
+ width: 80px;
+ height: 30px;
+}
